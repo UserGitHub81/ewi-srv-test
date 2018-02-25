@@ -7,6 +7,7 @@ public class ProvaMain {
 		System.out.println("Hello word");
 		
 		//nuovo commento inserito da workspaceGit
+		System.out.println("ciao Pipp");
 		
 	}
 
