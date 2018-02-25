@@ -6,10 +6,8 @@ public class ProvaMain {
 		// TODO Auto-generated method stub
 		System.out.println("Hello word");
 		
-		//secondo commento da workspaceGit
-		
 		//nuovo commento inserito da workspaceGit
-		System.out.println("ciao Pippo");
+		System.out.println("ciao Pipp");
 		
 	}
 
