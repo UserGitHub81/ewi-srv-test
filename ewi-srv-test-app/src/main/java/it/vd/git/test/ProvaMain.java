@@ -6,6 +6,8 @@ public class ProvaMain {
 		// TODO Auto-generated method stub
 		System.out.println("Hello word");
 		
+		//nuovo commento inserito da workspaceGit
+		
 	}
 
 }
